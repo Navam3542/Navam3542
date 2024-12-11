@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Navam Kakria
 - 👀 I’m interested in ...learning.
-- 🌱 I’m currently learning ...Matering Python
+- 🌱 I’m currently learning ...Mastering Python
 - 💞️ I’m looking to collaborate on ...any project with good problem statement.
 - 📫 How to reach me ...linkedin
 - 😄 Pronouns: ...
